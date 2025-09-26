@@ -15,7 +15,7 @@
   "devDependencies": {
     "async": "^2.5.0",
     "csv-parse": "^4.4.6",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "needle": "^2.0.0",
     "punycode": "^2.1.0",
     "tap-summary": "^4.0.0",
